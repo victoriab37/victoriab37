@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Victoria
 
-<!--
-**victoriab37/victoriab37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer with a strong foundation in cloud technologies, secure development, and threat detection. With two years of software engineering experience, I've developed critical skills in scripting, automation, analyzing logs, and detecting anomalies. My background gives me a unique advantage in understanding how attackers exploit applications and how to design systems defensively from the ground up.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📜 Certifications
+
+- ✅ **CompTIA Security+ (SY0-601)**  
+- ✅ **AWS Certified Cloud Practitioner (CCP)**
+- ✅ **Certified Scrum Master**  
+
+
+---
+
+## 🧪 Labs & Projects
+
+### 🔧 In Progress
+
+- 🔍 [Cloud Log Monitoring & Alerting System (Mini SIEM)](https://github.com/yourusername/cloud-log-monitoring)  
+  _Simulates, ingests, and analyzes security logs in AWS with detection logic and alerting via Slack/SNS. Designed to demonstrate SOC fundamentals and hands-on threat detection._
+
+
+### 🚀 Upcoming Labs & Projects
+
+- 🧰 **Build a custom Splunk dashboard for live threat data**
+- 🔒 **CloudTrail + GuardDuty detection hands-on project**
+
+---
+
+## 🤝 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/victoria-browning/)
+- 💻 [GitHub](https://github.com/victoriab37)
