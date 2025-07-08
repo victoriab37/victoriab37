@@ -17,7 +17,7 @@ I'm a software engineer with a strong foundation in cloud technologies, secure d
 
 ### 🔧 In Progress
 
-- 🔍 [Cloud Log Monitoring & Alerting System (Mini SIEM)](https://github.com/yourusername/cloud-log-monitoring)  
+- 🔍 [Cloud Log Monitoring & Alerting System (Mini SIEM)](https://github.com/victoriab37/cloud-log-monitoring)  
   _Simulates, ingests, and analyzes security logs in AWS with detection logic and alerting via Slack/SNS. Designed to demonstrate SOC fundamentals and hands-on threat detection._
 
 
@@ -28,7 +28,7 @@ I'm a software engineer with a strong foundation in cloud technologies, secure d
 
 ---
 
-## 🤝 Let's Connect
+## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/victoria-browning/)
-- 💻 [GitHub](https://github.com/victoriab37)
+- 💻 [GitHub Repositories](https://github.com/victoriab37?tab=repositories)
