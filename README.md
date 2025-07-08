@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Victoria
+# 👋🏽 Hi, I'm Victoria
 
 I'm a software engineer with a strong foundation in cloud technologies, secure development, and threat detection. With two years of software engineering experience, I've developed critical skills in scripting, automation, analyzing logs, and detecting anomalies. My background gives me a unique advantage in understanding how attackers exploit applications and how to design systems defensively from the ground up.
 
@@ -6,7 +6,7 @@ I'm a software engineer with a strong foundation in cloud technologies, secure d
 
 ## 📜 Certifications
 
-- ✅ **CompTIA Security+ (SY0-601)**  
+- ✅ **CompTIA Security+ (SY0-701)**  
 - ✅ **AWS Certified Cloud Practitioner (CCP)**
 - ✅ **Certified Scrum Master**  
 
