@@ -34,4 +34,4 @@ I'm a software engineer with a strong foundation in cloud technologies, secure d
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/victoria-browning/)
 - 💻 [GitHub Repositories](https://github.com/victoriab37?tab=repositories)
-- 📓 [Blog](https://medium.com/@vbrowning2222)
+- 📓 [Blog](https://medium.com/@victoriab37)
