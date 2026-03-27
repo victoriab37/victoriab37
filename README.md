@@ -13,8 +13,8 @@ Currently expanding into **AI/ML security** and **LLM-powered security tooling**
 
 **Languages:** Python · TypeScript · JavaScript · Java · HTML  
 **Frameworks:** Angular · React  
-**Cloud & DevOps:** AWS (IAM, S3, Lambda, CloudTrail) · GitLab CI/CD 
-**Security & Monitoring:** Splunk · GuardDuty · Dynatrace · Datadog · ServiceNow  
+**Cloud & DevOps:** AWS (IAM, S3, Lambda, CloudTrail) · GitLab CI/CD  
+**Security & Monitoring:** Splunk · Dynatrace · Datadog · ServiceNow  
 **Methodologies:** Agile Scrum · DevSecOps · CI/CD Security  
 
 ---
@@ -32,7 +32,7 @@ Currently expanding into **AI/ML security** and **LLM-powered security tooling**
 - 🔍 **[Cloud Log Monitoring & Alerting System (Mini SIEM)](https://github.com/victoriab37/cloud-log-monitoring)**  
   Simulates, ingests, and analyzes security logs in AWS with detection logic and
   alerting via Slack/SNS. Demonstrates SOC fundamentals and hands-on threat detection.  
-  📝 [Read the write-up on Medium]([https://medium.com/@victoriab37](https://medium.com/@victoriab37/how-i-built-a-cloud-native-mini-siem-to-detect-threats-and-send-real-time-alerts-c005cd370f60)
+  📝 [Read the write-up on Medium](https://medium.com/@victoriab37/how-i-built-a-cloud-native-mini-siem-to-detect-threats-and-send-real-time-alerts-c005cd370f60)
 
 ---
 
