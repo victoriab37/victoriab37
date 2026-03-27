@@ -1,37 +1,42 @@
 # 👋🏽 Hi, I'm Victoria
 
-I'm a software engineer with a strong foundation in cloud technologies, secure development, and threat detection. With two years of software engineering experience, I've developed critical skills in scripting, automation, analyzing logs, and detecting anomalies. My background gives me a unique advantage in understanding how attackers exploit applications and how to design systems defensively from the ground up.
+Frontend software engineer with 3 years of experience building secure,
+cloud-connected applications. I work across the full frontend stack — TypeScript,
+Angular, React — with a strong foundation in cloud infrastructure, DevSecOps,
+and threat detection on AWS.
+
+Currently expanding into **AI/ML security** and **LLM-powered security tooling**.
+
+---
+
+## 🛠️ Tech & Tools
+
+**Languages:** Python · TypeScript · JavaScript · Java · HTML  
+**Frameworks:** Angular · React  
+**Cloud & DevOps:** AWS (IAM, S3, Lambda, CloudTrail) · GitLab CI/CD 
+**Security & Monitoring:** Splunk · GuardDuty · Dynatrace · Datadog · ServiceNow  
+**Methodologies:** Agile Scrum · DevSecOps · CI/CD Security  
 
 ---
 
 ## 📜 Certifications
 
-- ✅ **CompTIA Security+ (SY0-701)**  
+- ✅ **CompTIA Security+ (SY0-701)**
 - ✅ **AWS Certified Cloud Practitioner (CCP)**
-- ✅ **Certified Scrum Master**  
-
+- ✅ **Certified Scrum Master**
 
 ---
 
-## 🧪 Labs & Projects
-### ⭐️ Complete
+## 🧪 Projects
 
-- 🔍 [Cloud Log Monitoring & Alerting System (Mini SIEM)](https://github.com/victoriab37/cloud-log-monitoring)  (July 2025)
-   - _Simulates, ingests, and analyzes security logs in AWS with detection logic and alerting via Slack/SNS. Designed to demonstrate SOC fundamentals and hands-on threat detection._
-
-
-### 🔧 In Progress
-
--
-### 🚀 Upcoming Labs & Projects
-
-- 🧰 **Build a custom Splunk dashboard for live threat data**
-- 🔒 **CloudTrail + GuardDuty detection hands-on project**
+- 🔍 **[Cloud Log Monitoring & Alerting System (Mini SIEM)](https://github.com/victoriab37/cloud-log-monitoring)**  
+  Simulates, ingests, and analyzes security logs in AWS with detection logic and
+  alerting via Slack/SNS. Demonstrates SOC fundamentals and hands-on threat detection.  
+  📝 [Read the write-up on Medium](https://medium.com/@victoriab37)
 
 ---
 
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/victoria-browning/)
-- 💻 [GitHub Repositories](https://github.com/victoriab37?tab=repositories)
-- 📓 [Blog](https://medium.com/@victoriab37)
+- 📓 [Medium Blog](https://medium.com/@victoriab37)
